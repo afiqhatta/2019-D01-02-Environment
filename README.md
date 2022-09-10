@@ -32,6 +32,11 @@ consistent with images presented in Paper IV on fiducial parameters
 our conclusions in the M87 publications (Paper I, II, III, IV, V and
 VI).
 
+**Environment Setup** 
+Install the required packages through conda 
+with the following environment yaml file. 
+```conda env create -f environment.yml```
+
 **Notes:**
 
 These data files only include Stokes *I* visibilities, while the
